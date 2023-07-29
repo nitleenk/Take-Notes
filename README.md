@@ -1,5 +1,5 @@
 # Take-Notes
-Front end of a note taking application using CSS, Javascript and React.JS
+Front end of a note taking website using CSS, Javascript and React.JS
 
 ## Index
 index.html and index.js contain the basic HTML and Javascript code respectively.
